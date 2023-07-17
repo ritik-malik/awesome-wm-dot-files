@@ -1,2 +1,7 @@
 # awesome-wm-dot-files
-Dot files for AwesomeWM and an awesome how-to wiki!
+
+This repository contains steps on how-to install and configure Awesome Window Manager on your Linux device & the dot files for the same
+
+
+
+
